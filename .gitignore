@@ -12,6 +12,8 @@ target
 *.ipr
 *.iws
 *.versionsBackup
-
 *.iml
-.DS_Store
+.terraform
+*.tfstate
+*.tfstate.backup
+.vscode
